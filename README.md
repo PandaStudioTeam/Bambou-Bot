@@ -1,2 +1,7 @@
-# Bambou-Bot
-Ce bot est le bot officiel de Panda Studio
+<h1 align="center">
+  <br>
+  <a href="https://github.com/PandaStudioTeam"><img src="logo.png" alt="Bambou - Discord Bot"></a>
+  <br>
+  Red Discord Bot
+  <br>
+</h1>
