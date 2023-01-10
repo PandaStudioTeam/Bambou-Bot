@@ -2,6 +2,6 @@
   <br>
   <a href="https://github.com/PandaStudioTeam"><img src="logo.png" alt="Bambou - Discord Bot"></a>
   <br>
-  Red Discord Bot
+  Bambou Bot
   <br>
 </h1>
